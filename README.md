@@ -1,5 +1,5 @@
 # Portfolio
-## Progetto - OOPLearning:
+## Progetto - OOPLearning(WIP):
 
 Progetto iniziato per poter consolidare le mie conoscenze sulla programmazione ad oggetti e per poter avere un'ambiente di test per leggere, trasformare e caricare file csv, xml, xlsx e json su db.
 
