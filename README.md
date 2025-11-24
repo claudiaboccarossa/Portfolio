@@ -33,5 +33,5 @@ Progetto iniziato per poter consolidare le mie conoscenze sulla programmazione a
 
 ### Configurazione
 
-Il software si basa su un file di configurazione denominato `config.ini`.
+Il software si basa su un file di configurazione denominato `config.ini`. Seguire le istruzioni del .docx `istruzioni_file_ini`.
 
