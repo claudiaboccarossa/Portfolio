@@ -13,7 +13,7 @@
   <a href="https://pond-life-tcg-collector.it/"><b>🌐 Sito live</b></a> ·
   <a href="https://pond-life-tcg-collector.it/magic/library">Catalogo Magic</a> ·
   <a href="https://pond-life-tcg-collector.it/onepiece/catalog">Catalogo One Piece</a> ·
-  <a href="https://pond-life-tcg-collector.it/docs/demo/analisi-demo-en.html">DEMO ANALYTICS</a>
+  <a href="https://pond-life-tcg-collector.it/static/demo/analisi-demo-en.html">DEMO ANALYTICS</a>
 </p>
 
 ---
